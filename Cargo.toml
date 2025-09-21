@@ -1,8 +1,8 @@
 [package]
-name = "unnamed_smash_plugin"
-version = "1.0"
+name = "dk_barrel"
+version = "1.0.0"
 authors = ["Dracau"]
-edition = "2025"
+edition = "2018"
 
 [package.metadata.skyline]
 titleid = "01006A800016E000"
